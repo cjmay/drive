@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 
 	"github.com/rakyll/command"
-	"github.com/rakyll/drive"
-	"github.com/rakyll/drive/config"
+	"github.com/cjmay/drive"
+	"github.com/cjmay/drive/config"
 )
 
 var context *config.Context
