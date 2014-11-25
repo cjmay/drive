@@ -1,12 +1,10 @@
 # drive
 
-[![Build Status](https://travis-ci.org/rakyll/drive.png?branch=master)](https://travis-ci.org/rakyll/drive)
-
 `drive` is a tiny program to pull or push [Google Drive](https://drive.google.com) files. You need go1.2 installed in order to build the program.
 
 ## Installation
 
-    go get github.com/rakyll/drive/cmd/drive
+    go get github.com/cjmay/drive/cmd/drive
 
 Use `drive help` for further reference.
 

@@ -21,7 +21,7 @@ import (
 	gopath "path"
 	"strings"
 
-	"github.com/rakyll/drive/config"
+	"github.com/cjmay/drive/config"
 )
 
 // Pushes to remote if local path exists and in a god context. If path is a
